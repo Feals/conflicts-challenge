@@ -1,2 +1,4 @@
 # conflicts-challenge
 exercise on conflicts
+
+On est parti pour un nouveau challenge sur les conflits
